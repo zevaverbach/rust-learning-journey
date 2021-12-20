@@ -1,0 +1,5 @@
+- [ ] make a project "hello" 
+- [ ] create a source file to print "hello world"
+- [ ] check your code
+- [ ] build your code
+- [ ] run your code
