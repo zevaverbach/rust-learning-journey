@@ -1,0 +1,6 @@
+- add text to a string
+- try reassigning the value of a variable to another one, using different types, and see what the compiler says
+- try passing a String instance and/or a Vector to a function which mutates it
+- borrow a non-mutable reference and store it in a var, then print a value made from it (e.g. add one to it)
+- use slicing to get the first word in a multi-word string and print it
+- use assert_eq! to prove what slicing actually does;
